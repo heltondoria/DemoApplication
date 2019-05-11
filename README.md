@@ -1,4 +1,7 @@
 # DemoApplication
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/heltondoria/DemoApplication.svg)](https://greenkeeper.io/)
+
 This application was generated using JHipster 4.13.2, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.2](http://www.jhipster.tech/documentation-archive/v4.13.2).
 
 This is a "uaa" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
